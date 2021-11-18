@@ -3,9 +3,7 @@
 
 <p align="left"> <a href="https://twitter.com/avnish__21" target="blank"><img src="https://img.shields.io/twitter/follow/avnish__21?logo=twitter&style=for-the-badge" alt="avnish__21" /></a> </p>
 
-- 🔭 I’m currently working on **Rental System**
 
-- 🌱 I’m currently learning **Asp.net**
 
 - 📫 How to reach me **avnish1708@gmail.com**
 
