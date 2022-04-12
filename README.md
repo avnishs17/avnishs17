@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Avnish Singh</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=avnishs17&label=Profile%20views&color=0e75b6&style=flat" alt="avnishs17" /> </p>
 
-<p align="left"> <a href="https://twitter.com/avnish__21" target="blank"><img src="https://img.shields.io/twitter/follow/avnish__21?logo=twitter&style=for-the-badge" alt="avnish__21" /></a> </p>
+<p align="left"> <a href="https://twitter.com/avnishs17" target="blank"><img src="https://img.shields.io/twitter/follow/avnishs17?logo=twitter&style=for-the-badge" alt="avnishs17" /></a> </p>
 
 
 
