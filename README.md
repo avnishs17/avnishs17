@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **avnishsingh@bhu.ac.in**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1pamaqQADmiWikyx-I3OddLgzdEPFY1li/view?usp=sharing](https://drive.google.com/file/d/1pamaqQADmiWikyx-I3OddLgzdEPFY1li/view?usp=sharing)
+- 📄 Know about my experiences [Resume.pdf](https://drive.google.com/file/d/1pamaqQADmiWikyx-I3OddLgzdEPFY1li/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
