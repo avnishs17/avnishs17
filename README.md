@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Avnish Singh</h1>
-<h3 align="center">unior Research Fellow at NIT Raipur, working on cybersecurity projects with a focus on Graph Neural Networks and machine learning. Skilled in Python and PyTorch, and passionate about exploring AI to solve real-world problems</h3>
+<h3 align="center">Junior Research Fellow at NIT Raipur, working on cybersecurity projects with a focus on Graph Neural Networks and machine learning. Skilled in Python and PyTorch, and passionate about exploring AI to solve real-world problems</h3>
 
 - 🔭 I’m currently working on **Utilizing variants of Graph neural network for intrusion detection models for advanced persistent threats.**
 
