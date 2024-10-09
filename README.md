@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **avnish1708@gmail.com**
 
-- 📄 Resume [Drive Link](https://drive.google.com/file/d/1OGDZhjfc4at21DGaPmSKlXfG_1aTy5Sv/view?usp=sharing)
+- 📄 Resume [Drive Link](https://drive.google.com/file/d/1DrdS2LCDMxHt8Rljp_ae5D9YNsT74FAa/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
