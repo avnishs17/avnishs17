@@ -7,11 +7,11 @@
 
 - 📫 How to reach me **avnish1708@gmail.com**
 
-- 📄 Resume [Drive Link](https://drive.google.com/file/d/1DrdS2LCDMxHt8Rljp_ae5D9YNsT74FAa/view?usp=sharing)
+- 📄 Resume [Drive Link](https://drive.google.com/file/d/1mbUY3OQN7I1rpDb8k45sMAUx6lDrzlAM/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/avnishs17" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="avnishs17" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/avnishsingh17" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="avnishs17" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
