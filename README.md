@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **avnish1708@gmail.com**
 
-- 📄 Resume [Drive Link](https://drive.google.com/file/d/1mbUY3OQN7I1rpDb8k45sMAUx6lDrzlAM/view?usp=sharing)
+- 📄 Resume [Drive Link]([https://drive.google.com/file/d/1mbUY3OQN7I1rpDb8k45sMAUx6lDrzlAM/view?usp=sharing](https://drive.google.com/file/d/1dx8O-0mfsP7pNj8iVj2cd0AMWGthEz9_/view?usp=sharing))
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -100,7 +100,7 @@
   </li>
 
   <li>
-    🍔 Food Classification with Deep Learning  
+    🍔 Food Not food Classification with Deep Learning  
     <a href="https://github.com/avnishs17/food_not_food">View Project</a>
     <ul>
       <li>Curated a balanced dataset from ImageNet-1k and built a CNN-based classifier for food vs. non-food detection.</li>
@@ -121,7 +121,6 @@
 
   <li>
     🧠 Classification of Paranoid Schizophrenia using GNNs on EEG Data  
-    <a href="https://github.com/avnishs17/GCN-Clssifier">View Project</a>
     <ul>
       <li>Developed a hybrid Graph Convolutional Network (GCN) and LSTM model for classifying paranoid schizophrenia from EEG data.</li>
       <li>Engineered advanced graph-based features and optimized temporal patterns using LSTM layers, achieving 97% accuracy.</li>
