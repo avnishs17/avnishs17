@@ -119,6 +119,7 @@
 - Autonomous AI Agents
 - Deep Learning for Computer Vision
 
+
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=avnishs17&show_icons=true&locale=en&layout=compact" alt="avnishs17" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=avnishs17&" alt="avnishs17" /></p>
