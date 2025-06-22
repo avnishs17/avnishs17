@@ -40,35 +40,6 @@
     </ul>
   </li>
 
-  <li>
-    📚 Study Planner AI  
-    <a href="https://github.com/avnishs17/study-planner.ai">View Project</a>
-    <ul>
-      <li>Collaborated on an AI-powered study planning application to optimize learning schedules and track progress.</li>
-      <li>Integrated machine learning algorithms to personalize study recommendations based on user performance data.</li>
-      <li>Built responsive web interface with HTML/CSS and implemented backend logic for intelligent scheduling.</li>
-    </ul>
-  </li>
-
-  <li>
-    🤖 Agentic AI Systems  
-    <a href="https://github.com/avnishs17/AgenticAI">View Project</a>
-    <ul>
-      <li>Explored autonomous AI agent architectures capable of multi-step reasoning and decision-making processes.</li>
-      <li>Implemented ReAct (Reasoning + Acting) patterns for creating intelligent agents with tool usage capabilities.</li>
-      <li>Developed prototype agents for task automation and complex problem-solving scenarios.</li>
-    </ul>
-  </li>
-
-  <li>
-    📊 StemGNN Replication Study  
-    <a href="https://github.com/avnishs17/StemGNN_replication">View Project</a>
-    <ul>
-      <li>Replicated and analyzed the StemGNN architecture for spectro-temporal graph neural network applications.</li>
-      <li>Conducted comprehensive experiments on time-series forecasting tasks with graph-structured data.</li>
-      <li>Documented implementation details and performance comparisons for reproducible research.</li>
-    </ul>
-  </li>
 
   <li>
     🏨 Hotel Reservation System (End-to-End MLOps)  
