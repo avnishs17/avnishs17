@@ -11,7 +11,7 @@ Experienced in Python, PyTorch, MLOps, and end-to-end deployment of scalable AI 
 
 - 📫 How to reach me **avnish1708@gmail.com**
 
-- 📄 Resume [Drive Link](https://drive.google.com/file/d/1E558TvGZ5rXBbx4aB3gXzqKijopk86tD/view?usp=sharing)
+- 📄 Resume [PDF Link](https://drive.google.com/file/d/1E558TvGZ5rXBbx4aB3gXzqKijopk86tD/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
