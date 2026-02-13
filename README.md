@@ -4,9 +4,10 @@ AI / ML Engineer focused on building production-ready machine learning and GenAI
 Experienced in Python, PyTorch, MLOps, and end-to-end deployment of scalable AI applications.
 </h3>
 
-- 🔭 I'm currently working on **building production-grade ML and GenAI pipelines, including model deployment, monitoring, and scalable inference systems.**
+- 🔭 I am currently building **end-to-end production ML and GenAI systems**, covering data pipelines, training workflows, deployment automation, scalable inference, monitoring, and full model lifecycle management.
 
-- 🌱 I'm currently learning **Advanced MLOps, GenAI application development, RAG pipelines, and agent-based AI systems**
+- 🌱 I am deepening expertise in **MLOps and LLMOps**, including ML system design, CI/CD for ML, experiment tracking, observability, reliability, and production-grade GenAI engineering, with RAG treated as only one component of a broader ML stack.
+
 
 - 📫 How to reach me **avnish1708@gmail.com**
 
@@ -102,20 +103,21 @@ Experienced in Python, PyTorch, MLOps, and end-to-end deployment of scalable AI 
 
 
 
-<h3 align="left">🚀 Currently Working On:</h3>
+<h3 align="left">Currently Working On:</h3>
 
-- **GenAI Applications**: Building LLM-powered applications with RAG pipelines
-- **Production MLOps**: Automating training, deployment, monitoring, and retraining workflows
-- **Scalable ML APIs**: Designing FastAPI-based inference services
-- **Agentic AI Systems**: Exploring task-oriented and autonomous AI workflows
+- **Production GenAI Systems**: Engineering LLM-powered applications with robust system design, where RAG is one component among evaluation, orchestration, and reliability layers
+- **End-to-End MLOps and LLMOps**: Automating data pipelines, training, deployment, monitoring, drift detection, and retraining workflows
+- **Scalable ML Inference Services**: Designing and deploying high-performance FastAPI based APIs for batch and real-time inference
+- **Agent-Based and Tool-Using Systems**: Building task-driven and autonomous AI systems with planning, tool use, and execution control
 
-<h3 align="left">🎯 Areas of Interest:</h3>
+<h3 align="left">Areas of Interest:</h3>
 
-- Applied Machine Learning
-- Generative AI and LLM applications
-- MLOps and production ML systems
-- Recommendation systems
-- Computer vision and NLP
+- Applied and Production Machine Learning
+- Generative AI and Large Language Model Engineering
+- MLOps, LLMOps, and ML system reliability
+- Scalable ML infrastructure and inference optimization
+- Computer Vision and Natural Language Processing
+
 
 
 
