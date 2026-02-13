@@ -14,12 +14,12 @@ Experienced in Python, PyTorch, MLOps, and end-to-end deployment of scalable AI 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/avnishsingh17" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="avnishs17" height="30" width="40" /></a>
-<a href="https://x.com/avnishs1ngh" target="blank">
+<a href="https://linkedin.com/in/avnishsingh17" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="avnishsingh17" height="30" width="40" /></a>
+<a href="https://x.com/avnish_s17" target="blank">
   <img
     align="center"
     src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg"
-    alt="avnishs1ngh"
+    alt="avnish_s17"
     height="30"
     width="40"
   />
