@@ -2,13 +2,15 @@
 
 # Avnish R. Singh
 
-**AI Engineer · MLOps Engineer**
+Mumbai, India
 
-Production ML/GenAI systems · Multi-agent LLM applications · GNN-based security research · 4 peer-reviewed publications
+**AI Engineer · MLOps Engineer · Open to Work**
+
+Machine Learning · MLOps · GenAI Applications · GNN-based Security Research · 4 Publications
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-avnishsingh17-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/avnishsingh17)
 [![Email](https://img.shields.io/badge/Email-avnish1708%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:avnish1708@gmail.com)
-[![Resume](https://img.shields.io/badge/Resume-PDF-4285F4?style=flat-square&logo=googledrive&logoColor=white)](https://drive.google.com/file/d/1DWhfk8VESHzQjVofqHUUy8jluDHW00ax/view)
+[![Resume](https://img.shields.io/badge/Resume-PDF-4285F4?style=flat-square&logo=googledrive&logoColor=white)](https://drive.google.com/file/d/1b8bncQBvMNDClcZ5IR_GVXRXBfzvro1L/view?usp=sharing)
 [![X](https://img.shields.io/badge/X-avnish__s17-000000?style=flat-square&logo=x&logoColor=white)](https://x.com/avnish_s17)
 
 </div>
@@ -17,10 +19,9 @@ Production ML/GenAI systems · Multi-agent LLM applications · GNN-based securit
 
 ## About
 
-Building production-oriented GenAI and MLOps systems for **AI Engineer** and **MLOps Engineer** roles: RAG platforms, multi-agent LLM workflows, cloud-native inference services, CI/CD pipelines, and ML monitoring. Currently Junior Research Fellow at NIT Raipur (Dept. of IT), working on GNN-based threat detection using large-scale DARPA provenance graphs.
+AI Engineer and MLOps practitioner with experience in machine learning research, GenAI applications, and cloud-native deployment. Former Junior Research Fellow at NIT Raipur, where I worked on graph-based intrusion detection using large-scale provenance data.
 
-My strongest work combines applied ML research with deployment-focused engineering: 99%+ F1 scores on graph-based security datasets, federated learning across heterogeneous clients, GCP infrastructure with Terraform and GKE, and 4 peer-reviewed publications.
-
+Interested in building practical ML and AI systems, including RAG applications, agent workflows, MLOps pipelines, and cloud-native deployment infrastructure.
 ---
 
 ## Skills
@@ -29,11 +30,11 @@ My strongest work combines applied ML research with deployment-focused engineeri
 |---|---|
 | **Languages** | Python, SQL, Bash |
 | **ML and Deep Learning** | PyTorch, PyTorch Geometric, Scikit-learn, NumPy, Pandas |
-| **Graph ML and Research ML** | Graph neural networks, node embeddings, provenance graphs, federated learning |
+| **Graph ML and Cybersecurity Research** | Graph neural networks, node embeddings, provenance graphs, federated learning |
 | **LLM and Agentic AI** | LangChain, LangGraph, AutoGen, FAISS, RAG |
 | **MLOps and Deployment** | Docker, Kubernetes, Redis, model serving, drift monitoring |
 | **Cloud and Infrastructure** | GCP (GKE, Artifact Registry, Workload Identity), AWS (EC2, ECR), Terraform |
-| **Security Research Lab** | GNS3, Kali Linux, Ubuntu, SPADE, Neo4j, attack simulation, provenance data collection |
+| **Security Research** | GNS3, Kali Linux, SPADE, Neo4j, attack simulation, provenance data collection |
 | **APIs and UI** | FastAPI, Flask, Streamlit |
 | **CI/CD and Monitoring** | GitHub Actions, Prometheus, Grafana |
 
@@ -83,9 +84,22 @@ My strongest work combines applied ML research with deployment-focused engineeri
 
 ---
 
-## Research and Applied ML Work
+## Publications
 
-### Junior Research Fellow, NIT Raipur (Jul 2024 - Present)
+| Type | Title | Venue | Year |
+|---|---|---|---|
+| Journal | GCN-LSTM: A Hybrid Graph Convolutional Network Model for Schizophrenia Classification | *Biomedical Signal Processing and Control*, Elsevier **(Q1 Journal)** | 2025 |
+| Conference | Advanced Persistent Threats Detection Framework for Industrial-IoT System Using Graph-Based Autoencoder and Stacking-Based Ensemble Technique | *International Symposium on Artificial Intelligence*, Springer | 2025 |
+| Conference | Fed-NODE: Federated Learning Based Threat Detection Framework for Edge-Based Industrial Internet of Things | *MIND 2025*, MNIT Jaipur | 2025 |
+| Book Chapter | Foundations of Edge Intelligence | *Edge Intelligence and Analytics for Internet of Things*, CRC Press | 2025 |
+
+[Full publication list](https://drive.google.com/file/d/1tE0we464Coj7r8zfQQY3Rup2JBGB4gYn/view?usp=sharing)
+
+---
+
+## Research Experience
+
+### Junior Research Fellow, NIT Raipur (Jul 2024 - Mar 2026)
 
 Applied graph ML and federated learning to cybersecurity datasets, with focus on APT detection, provenance graphs, heterogeneous clients, and edge inference feasibility.
 
@@ -115,19 +129,6 @@ Applied graph ML and federated learning to cybersecurity datasets, with focus on
 
 ---
 
-## Publications
-
-| Type | Title | Venue | Year |
-|---|---|---|---|
-| Journal | GCN-LSTM: A Hybrid Graph Convolutional Network Model for Schizophrenia Classification | *Biomedical Signal Processing and Control*, Elsevier **(Q1, 10+ citations)** | 2025 |
-| Conference | Advanced Persistent Threats Detection Framework for Industrial-IoT System Using Graph-Based Autoencoder and Stacking-Based Ensemble Technique | *International Symposium on Artificial Intelligence*, Springer | 2025 |
-| Conference | Fed-NODE: Federated Learning Based Threat Detection Framework for Edge-Based Industrial Internet of Things | *MIND 2025*, MNIT Jaipur | 2025 |
-| Book Chapter | Foundations of Edge Intelligence | *Edge Intelligence and Analytics for Internet of Things*, CRC Press | 2025 |
-
-[Full publication list](https://drive.google.com/file/d/1tE0we464Coj7r8zfQQY3Rup2JBGB4gYn/view?usp=sharing)
-
----
-
 ## Education
 
 | Degree | Institution | Year | CGPA |
@@ -136,10 +137,3 @@ Applied graph ML and federated learning to cybersecurity datasets, with focus on
 | B.Sc. Computer Science | D.G. Ruparel College, University of Mumbai | 2022 | 8.75 / 10 |
 
 ---
-
-## Contact
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-avnishsingh17-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/avnishsingh17)
-[![Email](https://img.shields.io/badge/Email-avnish1708%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:avnish1708@gmail.com)
-[![Resume](https://img.shields.io/badge/Resume-PDF-4285F4?style=flat-square&logo=googledrive&logoColor=white)](https://drive.google.com/file/d/1DWhfk8VESHzQjVofqHUUy8jluDHW00ax/view)
-[![X](https://img.shields.io/badge/X-avnish__s17-000000?style=flat-square&logo=x&logoColor=white)](https://x.com/avnish_s17)
