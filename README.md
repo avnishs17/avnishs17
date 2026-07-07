@@ -99,7 +99,7 @@ Interested in building practical ML and AI systems, including RAG applications, 
 
 ## Research Experience
 
-### Junior Research Fellow, NIT Raipur (Jul 2024 - Mar 2026)
+### Junior Research Fellow, NIT Raipur (Jul 2024 - Feb 2026)
 
 Applied graph ML and federated learning to cybersecurity datasets, with focus on APT detection, provenance graphs, heterogeneous clients, and edge inference feasibility.
 
