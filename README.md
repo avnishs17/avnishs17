@@ -10,7 +10,7 @@ Machine Learning · MLOps · GenAI Applications · GNN-based Security Research �
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-avnishsingh17-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/avnishsingh17)
 [![Email](https://img.shields.io/badge/Email-avnish1708%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:avnish1708@gmail.com)
-[![Resume](https://img.shields.io/badge/Resume-PDF-4285F4?style=flat-square&logo=googledrive&logoColor=white)](https://drive.google.com/file/d/1b8bncQBvMNDClcZ5IR_GVXRXBfzvro1L/view?usp=sharing)
+[![Resume](https://img.shields.io/badge/Resume-PDF-4285F4?style=flat-square&logo=googledrive&logoColor=white)](https://drive.google.com/file/d/1mEotJQcisYRNje0WbdnJ0mG_JXIAwNSh/view?usp=sharing)
 [![X](https://img.shields.io/badge/X-avnish__s17-000000?style=flat-square&logo=x&logoColor=white)](https://x.com/avnish_s17)
 
 </div>
