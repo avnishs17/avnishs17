@@ -42,21 +42,29 @@ Interested in building practical ML and AI systems, including RAG applications, 
 
 ## Projects
 
-### Document Portal: Enterprise RAG Platform
+### Enterprise Agentic RAG: Production-Grade RAG Platform
 
-[![GitHub](https://img.shields.io/badge/GitHub-document__portal-181717?style=flat-square&logo=github)](https://github.com/avnishs17/document_portal)
-&nbsp;`FastAPI` `LangChain` `FAISS` `Gemini` `Groq` `Docker` `GKE` `Terraform` `GitHub Actions`
+[![GitHub](https://img.shields.io/badge/GitHub-enterprise__agentic__rag-181717?style=flat-square&logo=github)](https://github.com/avnishs17/enterprise-rag) &nbsp;`LangGraph` `Qdrant` `Jina` `Portkey` `Redis` `Mem0` `Groq` `NeMo Guardrails` `RAGAS` `Docker`
 
-- Built multi-document chat, semantic search, and document comparison using session-scoped FAISS indexes to isolate concurrent users and avoid shared-state conflicts
-- Full GCP stack provisioned from zero with Terraform: custom VPC, GKE cluster with autoscaling node pools, Artifact Registry, Workload Identity Federation, static external IP
-- End-to-end CI/CD on GitHub Actions: Terraform plan/apply, Docker build and push to Artifact Registry, rolling Kubernetes deployment triggered on every push to master
+- Built an end-to-end agentic RAG system with LangGraph orchestration, intelligent document retrieval, Jina embeddings/reranking, Qdrant vector search, and LLM routing through Portkey
+- Implemented model failover, Redis + Mem0 memory, intent guardrails with NeMo Guardrails and Groq Safeguard, plus deterministic and RAGAS-based evaluation
+- Added production-oriented health checks, observability, caching, retrieval evaluation, and cloud deployment workflows across the application stack
+
+---
+
+### Agentic CLI: LLM Coding Agent Harness
+
+[![GitHub](https://img.shields.io/badge/GitHub-agentic__cli-181717?style=flat-square&logo=github)](https://github.com/avnishs17/agentic-cli) &nbsp;`Python` `LLM Tool Calling` `OpenAI-Compatible APIs` `prompt-toolkit` `Rich` `Bash`
+
+- Built a minimal coding-agent harness from scratch implementing an iterative LLM tool-calling loop with Read, Write, Edit, Rg, and Bash tools
+- Implemented in-session conversation state, multi-provider/model switching, structured tool results, Bash timeouts, tool-loop limits, and spinning-loop detection
+- Built an interactive REPL with live tool activity, command completion, Markdown rendering, and support for OpenAI-compatible endpoints including Nebius and OpenRouter
 
 ---
 
 ### Data Insight AutoGen: Multi-Agent Analysis Platform
 
-[![GitHub](https://img.shields.io/badge/GitHub-data__insight__autogen-181717?style=flat-square&logo=github)](https://github.com/avnishs17/data_insight_autogen)
-&nbsp;`Streamlit` `AutoGen` `Gemini` `Docker` `Python`
+[![GitHub](https://img.shields.io/badge/GitHub-data__insight__autogen-181717?style=flat-square&logo=github)](https://github.com/avnishs17/data_insight_autogen) &nbsp;`Streamlit` `AutoGen` `Gemini` `Docker` `Python`
 
 - Two-agent pipeline: DataAnalyzer generates Python analysis code from natural language queries; CodeExecutor runs it in an isolated Docker container with automatic error recovery and on-the-fly dependency installation
 - Multi-turn conversation state persists across Streamlit sessions; visualizations generated inside Docker surface automatically to the UI
@@ -65,8 +73,7 @@ Interested in building practical ML and AI systems, including RAG applications, 
 
 ### AI Travel Planner: Multi-Agent Planning System
 
-[![GitHub](https://img.shields.io/badge/GitHub-Trip__planner__AI2-181717?style=flat-square&logo=github)](https://github.com/avnishs17/Trip_planner_AI2)
-&nbsp;`LangGraph` `LangChain` `FastAPI` `Flask` `Groq` `Tavily` `Docker` `GKE` `GitHub Actions`
+[![GitHub](https://img.shields.io/badge/GitHub-Trip__planner__AI2-181717?style=flat-square&logo=github)](https://github.com/avnishs17/Trip_planner_AI2) &nbsp;`LangGraph` `LangChain` `FastAPI` `Flask` `Groq` `Tavily` `Docker` `GKE` `GitHub Actions`
 
 - LangGraph multi-agent system with four tool-equipped agents covering weather forecasting, place search (Tavily), currency conversion, and expense calculation
 - Dual-service (FastAPI backend, Flask frontend) containerized deployment on GKE with HPA autoscaling (2-10 replicas) and Kubernetes Secrets for API key management
@@ -75,13 +82,11 @@ Interested in building practical ML and AI systems, including RAG applications, 
 
 ### MLOps Pipeline with Monitoring
 
-[![GitHub](https://img.shields.io/badge/GitHub-user__survival__prediction-181717?style=flat-square&logo=github)](https://github.com/avnishs17/user_survival_prediction)
-&nbsp;`GCP Cloud Storage` `PostgreSQL` `Redis` `Scikit-learn` `Prometheus` `Grafana` `Docker`
+[![GitHub](https://img.shields.io/badge/GitHub-user__survival__prediction-181717?style=flat-square&logo=github)](https://github.com/avnishs17/user_survival_prediction) &nbsp;`GCP Cloud Storage` `PostgreSQL` `Redis` `Scikit-learn` `Prometheus` `Grafana` `Docker`
 
 - Pipeline orchestrates ingestion from GCP Cloud Storage, feature engineering with SMOTE class balancing, Redis-backed feature store, and Random Forest training with RandomizedSearchCV
 - Flask inference server instrumented with Prometheus for prediction volume tracking and KSDrift-based input drift detection, surfaced in Grafana dashboards
 - Full monitoring stack containerized via Docker Compose; reproducible across local and cloud environments
-
 ---
 
 ## Publications
